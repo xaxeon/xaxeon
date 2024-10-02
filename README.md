@@ -1,5 +1,5 @@
 <!--
-**ihtblwFIZ/ihtblwFIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xaxeon/xaxeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5D0A9,100:CED8F6&text=ihtblwFIZ&height=150&fontSize=30%&fontColor=FFFFFF&fontAlign=13&fontAlignY=33)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5D0A9,100:CED8F6&text=xaxeon&height=150&fontSize=30%&fontColor=FFFFFF&fontAlign=13&fontAlignY=33)
 
 
 ### 💫 Contact
 <br>
 <div align="left">
-  <a href="https://www.instagram.com/ihtbly_13" target="_blank">
+  <a href="https://www.instagram.com/xaxeeoon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
